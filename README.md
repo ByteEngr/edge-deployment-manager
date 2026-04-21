@@ -78,7 +78,7 @@ sudo apt-get install mosquitto  # Ubuntu/Debian
 
 ```bash
 # Clone the repository
-git clone https://github.com/akintunero/edge-deployment-manager.git
+git clone https://github.com/ByteEngr/edge-deployment-manager.git
 cd edge-deployment-manager
 
 # Create virtual environment
@@ -475,16 +475,16 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-**Built by Olúmáyòwá Akinkuehinmi for the edge computing community**
+**Built by Goziechukwu Chima-Duru for the Platform Ninjas community**
 
 ---
 
 ## 👨‍💻 Author
 
-**Olúmáyòwá Akinkuehinmi** - [akintunero101@gmail.com](mailto:akintunero101@gmail.com)
+**Olúmáyòwá Akinkuehinmi** - [chimadurugoodness@gmail.com](mailto:akintunero101@gmail.com)
 
-- GitHub: [@akintunero](https://github.com/akintunero)
-- LinkedIn: [Olúmáyòwá Akinkuehinmi](https://linkedin.com/in/olumayowaa)
+- GitHub: [@ByteEngr](https://github.com/akintunero)
+- LinkedIn: [Goziechukwu Chima-Duru](https://linkedin.com/in/olumayowaa)
 - Twitter: [@akintunero](https://twitter.com/akintunero)
 
 ## 🤝 Support the Project
@@ -499,4 +499,4 @@ If you find this project helpful, please consider:
 
 ---
 
-**Built for the edge computing community**
+**Built for the Platform Ninjas community**
