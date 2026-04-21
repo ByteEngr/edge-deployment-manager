@@ -23,7 +23,7 @@ A lightweight and scalable **DevOps tool** designed to simplify the deployment a
 - **Configuration management** with YAML-based configs
 - **Real-time status updates** via MQTT messaging
 
-### 🐳 **Container Management**
+### 🐳 **Container Managements**
 - **Docker container** lifecycle management
 - **Image building** and registry operations
 - **Container statistics** and performance monitoring
