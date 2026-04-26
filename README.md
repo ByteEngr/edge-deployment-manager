@@ -481,7 +481,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 👨‍💻 Author
 
-**Olúmáyòwá Akinkuehinmi** - [chimadurugoodness@gmail.com](mailto:akintunero101@gmail.com)
+**Goziechukwu Chima-Duru** - [chimadurugoodness@gmail.com](mailto:chimadurugoodness@gmail.com)
 
 - GitHub: [@ByteEngr](https://github.com/akintunero)
 - LinkedIn: [Goziechukwu Chima-Duru](https://linkedin.com/in/olumayowaa)
