@@ -116,8 +116,8 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute t
 ## Contact
 
 - **Maintainer**: Olúmáyòwá Akinkuehinmi
-- **Email**: [akintunero101@gmail.com](mailto:akintunero101@gmail.com)
-- **GitHub**: [@akintunero](https://github.com/akintunero)
+- **Email**: [chimadurugoodness@gmail.com](mailto:chimadurugoodness@gmail.com)
+- **GitHub**: [@ByteEngr](https://github.com/ByteEngr)
 
 ## License
 
