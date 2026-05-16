@@ -115,7 +115,7 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute t
 
 ## Contact
 
-- **Maintainer**: Olúmáyòwá Akinkuehinmi
+- **Maintainer**: Goziechukwu Chima-Duru
 - **Email**: [chimadurugoodness@gmail.com](mailto:chimadurugoodness@gmail.com)
 - **GitHub**: [@ByteEngr](https://github.com/ByteEngr)
 
