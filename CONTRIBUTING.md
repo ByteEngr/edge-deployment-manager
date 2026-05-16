@@ -8,7 +8,7 @@ Thank you for your interest in contributing to the Edge Deployment Manager! This
 
 1. **Fork the Repository**
    ```bash
-   git clone https://github.com/akintunero/edge-deployment-manager.git
+   git clone https://github.com/ByteEngr/edge-deployment-manager.git
    cd edge-deployment-manager
    ```
 
@@ -267,9 +267,9 @@ By contributing, you agree that your contributions will be licensed under the MI
 
 For questions about contributing or the project in general:
 
-- **Email**: [akintunero101@gmail.com](mailto:akintunero101@gmail.com)
-- **GitHub Issues**: [Create an issue](https://github.com/akintunero/edge-deployment-manager/issues)
-- **GitHub Discussions**: [Start a discussion](https://github.com/akintunero/edge-deployment-manager/discussions)
+- **Email**: [chimadurugoodness@gmail.com](mailto:chimadurugoodness@gmail.com)
+- **GitHub Issues**: [Create an issue](https://github.com/ByteEngr/edge-deployment-manager/issues)
+- **GitHub Discussions**: [Start a discussion](https://github.com/ByteEngr/edge-deployment-manager/discussions)
 
 ## Acknowledgments
 
@@ -279,4 +279,4 @@ Thank you to all contributors who help make Edge Deployment Manager better!
 
 Thank you for contributing to Edge Deployment Manager! 🚀
 
-**Maintainer**: Olúmáyòwá Akinkuehinmi - [akintunero101@gmail.com](mailto:akintunero101@gmail.com) 
+**Maintainer**: Goziechukwu Chima-Duru - [chimadurugoodness@gmail.com](mailto:chimadurugoodness@gmail.com) 
